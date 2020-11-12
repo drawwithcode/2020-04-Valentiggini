@@ -17,7 +17,7 @@ function preload() {
 }
 
 function setup() {
-  canvas = createCanvas(windowWidth, 750);
+  canvas = createCanvas(windowWidth, 1000);
   canvas.parent("sketch-div");
 
   //button1
